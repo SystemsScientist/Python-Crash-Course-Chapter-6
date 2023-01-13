@@ -1,5 +1,5 @@
 # favorite_languages3.py, Chapter 6, Python Crash Course
-# program initializes a dictionary or users and favorite
+# program initializes a dictionary of users and favorite
 # programming languages and uses a for loop, a key()
 # method and a print statement
 

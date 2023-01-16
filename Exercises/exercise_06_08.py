@@ -7,6 +7,7 @@
 # through your list and as you do print everything you 
 # know about each pet.
 
+# dictionaries
 buddy = {
             'name': 'buddy',
             'type': 'german shepherd', 
@@ -37,8 +38,10 @@ bruno = {
             'human': 'franklin',
         }
 
+# list of dictionaries
 pets = [buddy, bella, daisy, rocky, bruno]
 
+# for loop and print statements
 print("\nList of Dogs and their Humans: \n")
 for pet in pets:
     print("Name of dog: " + pet['name'].title())
